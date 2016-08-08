@@ -1,0 +1,112 @@
+/*Header*/
+.img {
+	width: 130px;
+	height: 110px;
+}
+.tamaño {
+	font-size: 18px;
+	padding: 35px 0px;
+}
+.pd-3 {
+	padding: 3%;
+}
+.gray {
+	color: gray;
+}
+/*section 1*/
+.fd-planta {
+	background-image: url(../img/semilla.jpg);
+	height:450px;
+}
+
+/*section mision*/
+.h2 {
+	margin: 10px;
+	font-size: 22px;
+	font-weight: bold;
+}
+/*metodología*/
+.clase {
+	background-image: url(../img/metodo.jpg);
+	height: 419px;
+}
+.metodologia {
+	background-image: url(../img/fondo.jpg);
+	height: 351px;
+}
+.metodo {
+	margin: 30px 0px 10px;
+	font-size: 25px;
+}
+/*servicios*/
+.pd-3-10 {
+	padding: 3% 10%;
+}
+/*proyectos*/
+.imagen {
+	width: 95%
+}
+.nm-proyecto {
+	font-size: 22px;
+	padding-bottom: 2%;
+}
+.subtitulo {
+	padding-bottom: 2%;
+	font-size: 20px;
+}
+.lorem {
+	font-size: 16px;
+	padding-top: 8px;
+}
+.pb-2 {
+	padding-bottom: 2%;
+}
+.equipo {
+	border-radius: 50%
+}
+.pl-2 {
+	padding: 0px 10%;
+}
+.redes {
+	width: 80%;
+}
+.mg-l {
+	margin-left: 150px;
+}
+.absolute{
+	position: absolute;
+	top: 20px;
+}
+.blog{
+	background-image: url(../img/fondo2.jpg);
+}
+.post {
+	width: 100%;
+}
+.slider {
+	width: 50%;
+	margin: 120px 0px 0px 25px;
+}
+.hover:hover {
+	color: #5E8263;
+}
+.blog{
+	color: #4D4D60;
+	box-sizing: border-box;
+    padding: 30px;
+}
+.gray{
+	color: #4D4D60;
+}
+
+
+.caja {
+	border: 1px solid #E8E8E8;
+	height: 220px;
+	box-sizing: border-box;
+	padding: 20px;
+}
+.redes_sociales {
+	width: 50px;
+	height: 50px;
+}
